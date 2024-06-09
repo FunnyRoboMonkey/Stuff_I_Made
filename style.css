@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#caterpillar {
+  position: absolute;
+  margin-top: 50px;
+  float: left;
+}
+
+.body {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  float: left;
+}
+
+#head {
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  float: left;
+}
